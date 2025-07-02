@@ -39,7 +39,7 @@
 - Collaborating with a few friends to build our own trading chatbot. 📈
 
 ### Want to collaborate?
-Send a message to: [lukealavez@gmail.com](mailto:lukealavez@gmail.com)
+Send a message to: [brunocontreras.dev@gmail.com](mailto:brunocontreras.dev@gmail.com)
 
 Expect exciting updates here. 🎢
 
