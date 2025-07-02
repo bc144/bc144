@@ -43,4 +43,4 @@ Send a message to: [lukealavez@gmail.com](mailto:lukealavez@gmail.com)
 
 Expect exciting updates here. 🎢
 
-<img height="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lukeamzzz&layout=compact&langs_count=8&theme=algolia"/>
+<img height="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bc144&layout=compact&langs_count=8&theme=algolia"/>
