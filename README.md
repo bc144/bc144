@@ -1,46 +1,68 @@
-## Hi there, my name is Bruno 👋
+## Hey, I'm Bruno 👋
 
-### Passionate about conquering new heights, capturing moments and crafting digital worlds. 🧗‍♂️📷👨‍💻
+**CS @ Tec de Monterrey (Mexico City) · Gen AI Engineer @ Facturaxión**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+I build AI-powered systems that ship to production. Currently architecting agentic RAG pipelines, multi-agent workflows, and LLM-powered features for real users at scale.
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="pandas" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind css" width="40" height="40"/> </a>
-<a href="https://v2.chakra-ui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="chakra ui" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/378837/node.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/YbOCE2o.png" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/3A2yN9n.png" alt="chakra ui" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/68/c-sharp-800x800.png" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a>
-<a href="https://mui.com/?srsltid=AfmBOopNirxtgXmVu90TbxTBoBXBE37hDcWL-vIm8fyHswEwO4-0wz2B" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> </a>
+---
 
-### Core Focus Areas:
-- **AI and Machine Learning**: Developing intelligent systems and models to solve real-world problems using data. 🤖
-- **Web Development**: Building dynamic and interesting webpages with a focus on user experience and performance. 🎨
-- **Algorithm Design**: Creating efficient algorithms to handle complex tasks, including machine learning and optimization. 🚀
+### What I work with
 
-### Currently working on:
-- My own facial recognition programm using a SQL database and Python. 🧙‍♂️
-- Collaborating with a few friends to build our own trading chatbot. 📈
+**AI / ML**
 
-### Want to collaborate?
-Send a message to: [brunocontreras.dev@gmail.com](mailto:brunocontreras.dev@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-Expect exciting updates here. 🎢
+**Backend**
 
-<img height="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bc144&layout=compact&langs_count=8&theme=algolia"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+
+---
+
+### What I'm focused on
+
+- **Agentic AI**: Multi-agent systems, RAG pipelines, LLM orchestration with LangGraph and Pydantic AI
+- **Full-stack product engineering**: Shipping end-to-end — from database schema to production UI
+- **Fintech**: Stripe Connect, escrow payments, Mexican fiscal compliance (CFDI/SAT)
+
+---
+
+### Recent projects
+
+🎵 **AI Music Recommender** — Semantic music discovery with a Go backend, FastAPI ML service, pgvector search, and a Next.js + Three.js 3D interface. Integrated with Spotify API.
+
+🏠 **Fennec Analytics** — Real estate intelligence platform with agentic web scrapers, Scikit-learn pricing models, and FastAPI-powered dashboards.
+
+🏆 **3rd Place — HackMX: MIT LIFT Lab Challenge (2024)** — Co-built *Abasto*, an AI inventory platform for small stores using Node.js, AWS, and LLM-powered WhatsApp chatbots.
+
+---
+
+### Let's connect
+
+[![Email](https://img.shields.io/badge/Email-brunocontreras.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brunocontreras.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno_Contreras_Silva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bruno-Contreras-Silva)
