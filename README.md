@@ -62,7 +62,3 @@ I build AI-powered systems that ship to production. Currently architecting agent
 
 ---
 
-### Let's connect
-
-[![Email](https://img.shields.io/badge/Email-brunocontreras.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brunocontreras.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno_Contreras_Silva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bruno-Contreras-Silva)
