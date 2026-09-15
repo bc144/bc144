@@ -1,6 +1,6 @@
 ## Hey, I'm Bruno 👋
 
-#Software/AI Engineer @ Toku (YC21)
+##Software/AI Engineer @ Toku (YC21)
 
 I build AI-powered systems that ship to production. Currently architecting agentic RAG pipelines, multi-agent workflows, and LLM-powered features for real users at scale.
 
